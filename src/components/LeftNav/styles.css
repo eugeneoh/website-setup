@@ -1,7 +1,27 @@
 .LeftNav {
   width: 380px;
   height: 100vh;
-  background-color: #272343;
+  background-color: #362b2e;
   color: #ffffff;
-  padding: 1rem;
+  padding: 4rem;
+  position: fixed;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.AboutMe {
+  align-self: center;
+  justify-self: center;
+}
+
+.header {
+  color: #f37b83
+}
+
+.subheader {
+  color: #ffffff;
+}
+
+.spacer {
+  height: 1.25rem;
 }
